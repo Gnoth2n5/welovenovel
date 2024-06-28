@@ -15,13 +15,16 @@
     DB_PASSWORD=
    
 -> run: php artisan serve
-
+-> Tạo Tài khoản
+-> Truy cập database đổi role sang admin
+-> Login admin để thêm sản phẩm
  *Or: 
 -> setup welovenovel.sql
 -> edit .env
 -> run: composer update
 -> run: npm update
 -> run: php artisan serve
+-> ADMIN: admin@gmail.com Pass: 12345678
 </pre>
 
 ## Coppyright to Pham Minh Thong
