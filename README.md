@@ -17,6 +17,7 @@
 
  *Or: 
 -> setup welovenovel.sql
+-> edit .env
 -> run: php artisan migrate
 
 
