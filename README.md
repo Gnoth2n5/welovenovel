@@ -4,14 +4,15 @@
 
 ## Run web on local server
 -> run: php artisan migrate
--> edit .env
+-> edit .env <br>
+    <pre>
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=
     DB_USERNAME=
     DB_PASSWORD=
-
+    </pre>
 -> run: php artisan serve
 
  *Or: 
