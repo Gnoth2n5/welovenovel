@@ -4,6 +4,7 @@
 <pre>
 ## Run web on local server
 -> run: composer update
+-> run: npm update
 -> run: php artisan migrate
 -> edit .env
     DB_CONNECTION=mysql
@@ -19,6 +20,7 @@
 -> setup welovenovel.sql
 -> edit .env
 -> run: composer update
+-> run: npm update
 -> run: php artisan serve
 </pre>
 
