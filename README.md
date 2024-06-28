@@ -3,6 +3,7 @@
 ## Web Shop Sell Novel
 <pre>
 ## Run web on local server
+-> run: composer update
 -> run: php artisan migrate
 -> edit .env
     DB_CONNECTION=mysql
@@ -17,6 +18,7 @@
  *Or: 
 -> setup welovenovel.sql
 -> edit .env
+-> run: composer update
 -> run: php artisan serve
 </pre>
 
